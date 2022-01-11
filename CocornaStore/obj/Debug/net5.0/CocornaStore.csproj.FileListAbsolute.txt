@@ -162,3 +162,9 @@ C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\
 C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
 C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\WorkSpaces\LastCocornaStore\CocornaStore\CocornaStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs

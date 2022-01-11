@@ -9,6 +9,8 @@ namespace CocornaStore.Models
     public class Products
 
     {
+
+
         [Key]
         public int Id { get; set; }
         [Required, StringLength(80)]
@@ -17,8 +19,11 @@ namespace CocornaStore.Models
         [Required, StringLength(80)]
         public string Brand { get; set; }
         [Required]
+        [DisplayFormat(DataFormatString = "{0:N0} ")]
         public double Price { get; set; }
         [Required]
+
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy -  HH:mm:ss}")]
         public DateTime DateUpdate { get; set; }
     }
 

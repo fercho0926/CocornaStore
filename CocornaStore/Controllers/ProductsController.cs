@@ -63,6 +63,7 @@ namespace CocornaStore.Controllers
         {
             if (ModelState.IsValid)
             {
+                products.DateUpdate = DateTime.Now;
                 _context.Add(products);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -103,6 +104,7 @@ namespace CocornaStore.Controllers
             {
                 try
                 {
+                    products.DateUpdate = DateTime.Now;
                     _context.Update(products);
                     await _context.SaveChangesAsync();
                 }
@@ -155,6 +157,19 @@ namespace CocornaStore.Controllers
         private bool ProductsExists(int id)
         {
             return _context.Products.Any(e => e.Id == id);
+        }
+
+
+        // GET: Products/byName
+        public async Task<IActionResult> GetByName(string name)
+        {
+            var products = await _context.Products.FindAsync(name);
+            if (products == null)
+            {
+                return NotFound();
+            }
+            return View(products);
+           
         }
     }
 }
