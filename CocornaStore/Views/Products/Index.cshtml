@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<CocornaStore.Models.Products>
 
 @{
-    ViewData["Title"] = "Prices List";
+    ViewData["Title"] = "Lista de precios";
 }
 
 <h1>Prices List</h1>
 
 <p>
-    <a asp-action="Create" class="btn btn-info">Create New</a>
+    <a asp-action="Create" class="btn btn-info">Crear</a>
 </p>
 
 
@@ -46,8 +46,11 @@
                 @Html.DisplayFor(modelItem => item.DateUpdate)
             </td>
             <td>
-               <a  class="btn btn-outline-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
-                <a class="btn btn-outline-danger"asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+               
+                    <a class="btn btn-outline-warning" asp-action="Edit" asp-route-id="@item.Id">editar</a>
+                    <a class="btn btn-outline-danger"asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>  
+                    
+                
             </td>
         </tr>
 }

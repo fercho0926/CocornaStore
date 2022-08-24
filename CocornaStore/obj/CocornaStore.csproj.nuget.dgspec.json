@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpaces\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj": {}
+    "C:\\WorkSpaces\\LastCocornaStore\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpaces\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj": {
+    "C:\\WorkSpaces\\LastCocornaStore\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpaces\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj",
+        "projectUniqueName": "C:\\WorkSpaces\\LastCocornaStore\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj",
         "projectName": "CocornaStore",
-        "projectPath": "C:\\WorkSpaces\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj",
+        "projectPath": "C:\\WorkSpaces\\LastCocornaStore\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj",
         "packagesPath": "C:\\Users\\mvasquez\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpaces\\LastCocornaStore\\CocornaStore\\CocornaStore\\obj\\",
+        "outputPath": "C:\\WorkSpaces\\LastCocornaStore\\LastCocornaStore\\CocornaStore\\CocornaStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

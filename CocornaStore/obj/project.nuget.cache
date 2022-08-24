@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7i3yMqEXk68Xa1IuioFgXjNkwr0YCjlvmBzR562/mSIkNDzxdwvvd+U6RoY9WugVfepZmz9FSRGqnUCcJrX6UA==",
+  "dgSpecHash": "kbEuLNO2I5Ii3JejRHZZHZoWN3SUKrCuf7INautmmSJwoaI+aUcAcjjwWoIZJt2tQdstwyPwjtg9M5F/afLhgw==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpaces\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj",
+  "projectFilePath": "C:\\WorkSpaces\\LastCocornaStore\\LastCocornaStore\\CocornaStore\\CocornaStore\\CocornaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mvasquez\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mvasquez\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.12\\microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",
